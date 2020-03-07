@@ -238,7 +238,8 @@ transform: translateX(-50%);
   border-radius: 20px;
 }
 .galary img {
-  width: 449px;
+ width: 420px;
+    margin: 15px;
 }
 /*Ending first Section*/
 
